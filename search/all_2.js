@@ -1,14 +1,14 @@
 var searchData=
 [
   ['calculate_5fenergy_5fspectrum_0',['calculate_energy_spectrum',['../classdealspectrum_1_1SpectralAnalysis.html#a192f1677ecc3281dfe9f19628d06b14f',1,'dealspectrum::SpectralAnalysis']]],
-  ['cellflags_1',['CellFlags',['../structExaDG_1_1CellFlags.html',1,'ExaDG']]],
-  ['cgsmoother_2',['CGSmoother',['../classExaDG_1_1CGSmoother.html',1,'ExaDG']]],
-  ['chebyshevsmoother_3',['ChebyshevSmoother',['../classExaDG_1_1ChebyshevSmoother.html',1,'ExaDG']]],
-  ['checkmultigrid_4',['CheckMultigrid',['../classExaDG_1_1CheckMultigrid.html',1,'ExaDG']]],
-  ['clear_5',['clear',['../classExaDG_1_1TimerTree.html#a2886f1d3bbd4e82cb54458d94fe82979',1,'ExaDG::TimerTree']]],
-  ['coarsegriddata_6',['CoarseGridData',['../structExaDG_1_1CoarseGridData.html',1,'ExaDG']]],
-  ['combinedoperator_7',['CombinedOperator',['../classExaDG_1_1CompNS_1_1CombinedOperator.html',1,'ExaDG::CompNS::CombinedOperator&lt; dim, Number &gt;'],['../classExaDG_1_1ConvDiff_1_1CombinedOperator.html',1,'ExaDG::ConvDiff::CombinedOperator&lt; dim, Number &gt;']]],
-  ['combinedoperatordata_8',['CombinedOperatorData',['../structExaDG_1_1CompNS_1_1CombinedOperatorData.html',1,'ExaDG::CompNS::CombinedOperatorData&lt; dim &gt;'],['../structExaDG_1_1ConvDiff_1_1CombinedOperatorData.html',1,'ExaDG::ConvDiff::CombinedOperatorData&lt; dim &gt;']]],
+  ['cgsmoother_1',['CGSmoother',['../classExaDG_1_1CGSmoother.html',1,'ExaDG']]],
+  ['chebyshevsmoother_2',['ChebyshevSmoother',['../classExaDG_1_1ChebyshevSmoother.html',1,'ExaDG']]],
+  ['checkmultigrid_3',['CheckMultigrid',['../classExaDG_1_1CheckMultigrid.html',1,'ExaDG']]],
+  ['clear_4',['clear',['../classExaDG_1_1TimerTree.html#a2886f1d3bbd4e82cb54458d94fe82979',1,'ExaDG::TimerTree']]],
+  ['coarsegriddata_5',['CoarseGridData',['../structExaDG_1_1CoarseGridData.html',1,'ExaDG']]],
+  ['combinedoperator_6',['CombinedOperator',['../classExaDG_1_1CompNS_1_1CombinedOperator.html',1,'ExaDG::CompNS::CombinedOperator&lt; dim, Number &gt;'],['../classExaDG_1_1ConvDiff_1_1CombinedOperator.html',1,'ExaDG::ConvDiff::CombinedOperator&lt; dim, Number &gt;']]],
+  ['combinedoperatordata_7',['CombinedOperatorData',['../structExaDG_1_1CompNS_1_1CombinedOperatorData.html',1,'ExaDG::CompNS::CombinedOperatorData&lt; dim &gt;'],['../structExaDG_1_1ConvDiff_1_1CombinedOperatorData.html',1,'ExaDG::ConvDiff::CombinedOperatorData&lt; dim &gt;']]],
+  ['configurationparameters_8',['ConfigurationParameters',['../structExaDG_1_1preCICE_1_1ConfigurationParameters.html',1,'ExaDG::preCICE']]],
   ['containerinterfacedata_9',['ContainerInterfaceData',['../classExaDG_1_1ContainerInterfaceData.html',1,'ExaDG']]],
   ['continuitypenaltydata_10',['ContinuityPenaltyData',['../structExaDG_1_1IncNS_1_1ContinuityPenaltyData.html',1,'ExaDG::IncNS']]],
   ['continuitypenaltykernel_11',['ContinuityPenaltyKernel',['../classExaDG_1_1IncNS_1_1Operators_1_1ContinuityPenaltyKernel.html',1,'ExaDG::IncNS::Operators']]],
@@ -21,7 +21,8 @@ var searchData=
   ['convectiveoperator_3c_20dim_2c_20double_20_3e_18',['ConvectiveOperator&lt; dim, double &gt;',['../classExaDG_1_1IncNS_1_1ConvectiveOperator.html',1,'ExaDG::IncNS']]],
   ['convectiveoperatordata_19',['ConvectiveOperatorData',['../structExaDG_1_1CompNS_1_1ConvectiveOperatorData.html',1,'ExaDG::CompNS::ConvectiveOperatorData&lt; dim &gt;'],['../structExaDG_1_1ConvDiff_1_1ConvectiveOperatorData.html',1,'ExaDG::ConvDiff::ConvectiveOperatorData&lt; dim &gt;'],['../structExaDG_1_1IncNS_1_1ConvectiveOperatorData.html',1,'ExaDG::IncNS::ConvectiveOperatorData&lt; dim &gt;']]],
   ['copy_5fto_5fmg_20',['copy_to_mg',['../classExaDG_1_1MGTransferH.html#a9c0e0187ca29cbeff492774a99979ddf',1,'ExaDG::MGTransferH']]],
-  ['cubemeshmovementfunctions_21',['CubeMeshMovementFunctions',['../classExaDG_1_1CubeMeshMovementFunctions.html',1,'ExaDG']]],
-  ['curlcompute_22',['CurlCompute',['../structExaDG_1_1IncNS_1_1CurlCompute.html',1,'ExaDG::IncNS']]],
-  ['curlcompute_3c_202_2c_20feeval_20_3e_23',['CurlCompute&lt; 2, FEEval &gt;',['../structExaDG_1_1IncNS_1_1CurlCompute_3_012_00_01FEEval_01_4.html',1,'ExaDG::IncNS']]]
+  ['couplingbase_21',['CouplingBase',['../classExaDG_1_1preCICE_1_1CouplingBase.html',1,'ExaDG::preCICE']]],
+  ['cubemeshmovementfunctions_22',['CubeMeshMovementFunctions',['../classExaDG_1_1CubeMeshMovementFunctions.html',1,'ExaDG']]],
+  ['curlcompute_23',['CurlCompute',['../structExaDG_1_1IncNS_1_1CurlCompute.html',1,'ExaDG::IncNS']]],
+  ['curlcompute_3c_202_2c_20feeval_20_3e_24',['CurlCompute&lt; 2, FEEval &gt;',['../structExaDG_1_1IncNS_1_1CurlCompute_3_012_00_01FEEval_01_4.html',1,'ExaDG::IncNS']]]
 ];
